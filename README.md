@@ -1,2 +1,2 @@
 # LinkOpener
-Opens link
+Opens link on users pc x amount of times with x delay (in seconds).
