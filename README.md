@@ -1,0 +1,2 @@
+# LinkOpener
+Opens link
